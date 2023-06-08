@@ -1,7 +1,7 @@
 % Gives bandcenters in Hz
 % Gives bandedges in rad/s
 
-number_of_intervals = 6; 
+number_of_intervals = 4; 
 
 minimum_freq = 250  * 2 * pi;
 maximum_freq = 6000 * 2 * pi;
